@@ -1,0 +1,6 @@
+[submodule "corp-task--01"]
+	path = corp-task--01
+	url = https://github.com/NarciSource/Pre-Onboarding-FE--corp-task-01.git
+[submodule "corp-task--02"]
+	path = corp-task--02
+	url = https://github.com/NarciSource/Pre-Onboarding-FE--corp-task-02.git
