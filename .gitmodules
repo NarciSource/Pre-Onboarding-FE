@@ -4,3 +4,6 @@
 [submodule "corp-task--02"]
 	path = corp-task--02
 	url = https://github.com/NarciSource/Pre-Onboarding-FE--corp-task-02.git
+[submodule "post-assessment"]
+	path = post-assessment
+	url = https://github.com/NarciSource/Pre-Onboarding-FE--post-assessment.git
