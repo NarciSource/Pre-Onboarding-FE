@@ -8,7 +8,7 @@
 강의 세션 외 시간에 실전 과제 수행하여 100h+
 
 ## 💻 학습 기술 스택
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) [![Axios](https://img.shields.io/badge/Axios-%235A29E4?style=flat-square&logo=axios)](https://axios-http.com/kr/docs/intro)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) [![Axios](https://img.shields.io/badge/Axios-%235A29E4?style=flat-square&logo=axios)](https://axios-http.com/kr/docs/intro)
 - [![React](https://img.shields.io/badge/v18.2.0-%2361DAFB?style=flat-square&logo=react&logoColor=white&label=react
 )](https://reactjs.org) [![CRA](https://img.shields.io/badge/Create%20React%20App-09D3AC?style=flat-square&logo=createreactapp&logoColor=white)](https://create-react-app.dev/) [![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)](https://reactrouter.com/en/main) [![React Query](https://img.shields.io/badge/React%20Query-%23FF4154?style=flat-square&logo=reactquery&logoColor=white)](https://tanstack.com/query/v4/docs/framework/react/overview) [![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=flat-square&logo=redux&logoColor=white
 )](https://react-redux.js.org/)
